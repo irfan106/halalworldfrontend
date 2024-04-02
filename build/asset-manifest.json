@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/static/css/main.e6c13ad2.css",
+    "main.js": "/static/js/main.0f79b779.js",
+    "static/js/453.258b012d.chunk.js": "/static/js/453.258b012d.chunk.js",
+    "static/media/hero-img.jpg": "/static/media/hero-img.971bccb12f9ea9e1d8af.jpg",
+    "static/media/japan.jpg": "/static/media/japan.93b466c3187767027a39.jpg",
+    "static/media/south-korea.jpg": "/static/media/south-korea.ce7540a94e9e5872d617.jpg",
+    "static/media/p-mosque-jp.jpg": "/static/media/p-mosque-jp.2b69a6a0588574adf2fe.jpg",
+    "static/media/canada.jpg": "/static/media/canada.b644e929ddc1cd07ef34.jpg",
+    "static/media/p-mosque-sk.jpg": "/static/media/p-mosque-sk.dd25d6d793fdf7e83d53.jpg",
+    "static/media/p-mosque-cand.jpg": "/static/media/p-mosque-cand.605027a4507caeaba495.jpg",
+    "static/media/Logo-5.png": "/static/media/Logo-5.75c698ded4ecc34270ae.png",
+    "index.html": "/index.html",
+    "main.e6c13ad2.css.map": "/static/css/main.e6c13ad2.css.map",
+    "main.0f79b779.js.map": "/static/js/main.0f79b779.js.map",
+    "453.258b012d.chunk.js.map": "/static/js/453.258b012d.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e6c13ad2.css",
+    "static/js/main.0f79b779.js"
+  ]
+}
